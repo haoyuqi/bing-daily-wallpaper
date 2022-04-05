@@ -37,5 +37,7 @@ jobs:
         run: |
           git config user.name 'Hao Yuqi'
           git config user.email 'hi.haoyuqi+github@gmail.com'
-          git commit . -m "Update README.md"
+          git add README.md
+          git add storage/bing-wallpaper
+          git commit -m "Update README.md"
           git push
