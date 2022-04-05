@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup Timezone
         uses: zcong1993/setup-timezone@master
         with:
@@ -33,15 +33,11 @@ jobs:
         run: php artisan download:bing-wallpaper
       - name: Update README.md
         run: php artisan update:readme
-      - name: Upload Screenshots
-        if: failure()
-        uses: actions/upload-artifact@v2
-        with:
-          name: screenshots
-          path: tests/Browser/screenshots
-      - name: Upload Console Logs
-        if: failure()
-        uses: actions/upload-artifact@v2
-        with:
-          name: console
-          path: tests/Browser/console
+      - uses: actions/checkout@v3
+        run: |
+          git config user.name 'Hao Yuqi'
+          git config user.email 'hi.haoyuqi+github@gmail.com'
+          git add README.md
+          git add storage/bing-wallpaper
+          git commit -m "Update README.md"
+          git push
