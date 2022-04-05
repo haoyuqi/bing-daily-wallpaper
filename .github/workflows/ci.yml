@@ -31,11 +31,11 @@ jobs:
         run: php artisan download:bing-wallpaper
       - name: Update README.md
         run: php artisan update:readme
-      - name: Get changed files
-        id: changed-files
-        uses: tj-actions/changed-files@v18.6
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
       - name: Git Push
-        if: contains(steps.changed-files.outputs.modified_files, 'README.md')
+        if: steps.git-check.outputs.modified == 'true'
         run: |
           git config user.name 'Hao Yuqi'
           git config user.email 'hi.haoyuqi+github@gmail.com'
