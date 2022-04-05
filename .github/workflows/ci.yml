@@ -32,7 +32,7 @@ jobs:
       - name: Download bing wallpaper
         run: php artisan download:bing-wallpaper
       - name: Update README.md
-        run: php artisan update:raedme
+        run: php artisan update:readme
       - name: Upload Screenshots
         if: failure()
         uses: actions/upload-artifact@v2
