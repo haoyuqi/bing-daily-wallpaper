@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "12524947d8c752f84bc21aaaede06bfa",
+    "content-hash": "6cfec2980bef4eeab4526263568d83ad",
     "packages": [
         {
             "name": "brick/math",
@@ -892,6 +892,56 @@
                 }
             ],
             "time": "2021-10-06T17:43:30+00:00"
+        },
+        {
+            "name": "haoyuqi/download-bing-wallpaper",
+            "version": "2.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/haoyuqi/download-bing-wallpaper.git",
+                "reference": "72b5574dd0d71b802ec9fae3a72af5ecdf5cb789"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/haoyuqi/download-bing-wallpaper/zipball/72b5574dd0d71b802ec9fae3a72af5ecdf5cb789",
+                "reference": "72b5574dd0d71b802ec9fae3a72af5ecdf5cb789",
+                "shasum": ""
+            },
+            "require": {
+                "guzzlehttp/guzzle": "^7.4",
+                "illuminate/filesystem": "^8|^9",
+                "illuminate/support": "^8|^9",
+                "php": "^7.3|^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Haoyuqi\\DownloadBingWallpaper\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Haoyuqi\\DownloadBingWallpaper\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Hao Yuqi",
+                    "email": "hi.haoyuqi+github@gmail.com"
+                }
+            ],
+            "description": "Download bing wallpaper",
+            "support": {
+                "issues": "https://github.com/haoyuqi/download-bing-wallpaper/issues",
+                "source": "https://github.com/haoyuqi/download-bing-wallpaper/tree/2.1.1"
+            },
+            "time": "2022-04-05T02:24:53+00:00"
         },
         {
             "name": "laravel/framework",
