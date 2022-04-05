@@ -31,15 +31,11 @@ jobs:
         run: php artisan download:bing-wallpaper
       - name: Update README.md
         run: php artisan update:readme
-      - name: Get specific changed files
-        id: changed-files-specific
+      - name: Get changed files
+        id: changed-files
         uses: tj-actions/changed-files@v18.6
-        with:
-          files: |
-            README.md
-            storage/bing-wallpaper/**
       - name: Git Push
-        if: steps.changed-files-specific.outputs.any_changed == 'true'
+        if: contains(steps.changed-files.outputs.modified_files, 'README.md')
         run: |
           git config user.name 'Hao Yuqi'
           git config user.email 'hi.haoyuqi+github@gmail.com'
