@@ -32,7 +32,7 @@ class UpdateReadmeCommand extends Command
         $readme_template = $filesystem->get(storage_path('readme-template.dat'));
 
         $now = now();
-        $content = str_replace('%today-wallpaper%', "![{$now->toDateString()}](./storage/bing-wallpaper/{$now->year}/{$now->format('m')}/{$now->toDateString()}.png)" . PHP_EOL . $now->toDateTimeString(), $readme_template);
+        $content = str_replace('%today-wallpaper%', "![{$now->toDateString()}](./storage/bing-wallpaper/{$now->year}/{$now->format('m')}/{$now->toDateString()}.png)" . PHP_EOL . $now->toDateString(), $readme_template);
 
         $res = $filesystem->put(base_path('README.md'), $content);
 
