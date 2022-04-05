@@ -34,7 +34,7 @@ jobs:
       - name: Update README.md
         run: php artisan update:readme
       - name: Git Push
-      - run: |
+        run: |
           git config user.name 'Hao Yuqi'
           git config user.email 'hi.haoyuqi+github@gmail.com'
           git commit -m . "Update README.md"
