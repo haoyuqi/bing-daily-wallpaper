@@ -44,7 +44,7 @@ class DownloadBingWallpaperCommand extends Command
         $res = $this->bingWallpaper->save($this->bingWallpaper->download(), $file_path, $file_name);
 
         $info = 'Download bing wallpaper ' . $file_name . ' ' . ($res ? 'success' : 'failed') . '.';
-        info($info);
+
         $this->info($info);
     }
 }
