@@ -4,8 +4,8 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2022-05-21](./storage/bing-wallpaper/2022/05/2022-05-21.png)
-2022-05-21
+![2022-05-22](./storage/bing-wallpaper/2022/05/2022-05-22.png)
+2022-05-22
 
 
 ## 2022
@@ -13,11 +13,11 @@ Use GitHub action to update Bing wallpaper daily.
 ### 05
 | | | |
 |:---:|:---:|:---:|
-|![2022-05-21](./storage/bing-wallpaper/2022/05/2022-05-21.png) 2022-05-21|![2022-05-20](./storage/bing-wallpaper/2022/05/2022-05-20.png) 2022-05-20|![2022-05-19](./storage/bing-wallpaper/2022/05/2022-05-19.png) 2022-05-19|
-|![2022-05-18](./storage/bing-wallpaper/2022/05/2022-05-18.png) 2022-05-18|![2022-05-17](./storage/bing-wallpaper/2022/05/2022-05-17.png) 2022-05-17|![2022-05-15](./storage/bing-wallpaper/2022/05/2022-05-15.png) 2022-05-15|
-|![2022-05-13](./storage/bing-wallpaper/2022/05/2022-05-13.png) 2022-05-13|![2022-05-12](./storage/bing-wallpaper/2022/05/2022-05-12.png) 2022-05-12|![2022-05-05](./storage/bing-wallpaper/2022/05/2022-05-05.png) 2022-05-05|
-|![2022-05-04](./storage/bing-wallpaper/2022/05/2022-05-04.png) 2022-05-04|![2022-05-03](./storage/bing-wallpaper/2022/05/2022-05-03.png) 2022-05-03|![2022-05-02](./storage/bing-wallpaper/2022/05/2022-05-02.png) 2022-05-02|
-|![2022-05-01](./storage/bing-wallpaper/2022/05/2022-05-01.png) 2022-05-01| | |
+|![2022-05-22](./storage/bing-wallpaper/2022/05/2022-05-22.png) 2022-05-22|![2022-05-21](./storage/bing-wallpaper/2022/05/2022-05-21.png) 2022-05-21|![2022-05-20](./storage/bing-wallpaper/2022/05/2022-05-20.png) 2022-05-20|
+|![2022-05-19](./storage/bing-wallpaper/2022/05/2022-05-19.png) 2022-05-19|![2022-05-18](./storage/bing-wallpaper/2022/05/2022-05-18.png) 2022-05-18|![2022-05-17](./storage/bing-wallpaper/2022/05/2022-05-17.png) 2022-05-17|
+|![2022-05-15](./storage/bing-wallpaper/2022/05/2022-05-15.png) 2022-05-15|![2022-05-13](./storage/bing-wallpaper/2022/05/2022-05-13.png) 2022-05-13|![2022-05-12](./storage/bing-wallpaper/2022/05/2022-05-12.png) 2022-05-12|
+|![2022-05-05](./storage/bing-wallpaper/2022/05/2022-05-05.png) 2022-05-05|![2022-05-04](./storage/bing-wallpaper/2022/05/2022-05-04.png) 2022-05-04|![2022-05-03](./storage/bing-wallpaper/2022/05/2022-05-03.png) 2022-05-03|
+|![2022-05-02](./storage/bing-wallpaper/2022/05/2022-05-02.png) 2022-05-02|![2022-05-01](./storage/bing-wallpaper/2022/05/2022-05-01.png) 2022-05-01| |
 ### 04
 | | | |
 |:---:|:---:|:---:|
