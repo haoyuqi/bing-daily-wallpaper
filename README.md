@@ -4,8 +4,8 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2022-06-04](./storage/bing-wallpaper/2022/06/2022-06-04.png)
-2022-06-04
+![2022-06-05](./storage/bing-wallpaper/2022/06/2022-06-05.png)
+2022-06-05
 
 
 ## 2022
@@ -13,8 +13,8 @@ Use GitHub action to update Bing wallpaper daily.
 ### 06
 | | | |
 |:---:|:---:|:---:|
-|![2022-06-04](./storage/bing-wallpaper/2022/06/2022-06-04.png) 2022-06-04|![2022-06-03](./storage/bing-wallpaper/2022/06/2022-06-03.png) 2022-06-03|![2022-06-02](./storage/bing-wallpaper/2022/06/2022-06-02.png) 2022-06-02|
-|![2022-06-01](./storage/bing-wallpaper/2022/06/2022-06-01.png) 2022-06-01| | |
+|![2022-06-05](./storage/bing-wallpaper/2022/06/2022-06-05.png) 2022-06-05|![2022-06-04](./storage/bing-wallpaper/2022/06/2022-06-04.png) 2022-06-04|![2022-06-03](./storage/bing-wallpaper/2022/06/2022-06-03.png) 2022-06-03|
+|![2022-06-02](./storage/bing-wallpaper/2022/06/2022-06-02.png) 2022-06-02|![2022-06-01](./storage/bing-wallpaper/2022/06/2022-06-01.png) 2022-06-01| |
 ### 05
 | | | |
 |:---:|:---:|:---:|
