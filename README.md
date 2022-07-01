@@ -4,12 +4,16 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2022-06-30](./storage/bing-wallpaper/2022/06/2022-06-30.png)
-2022-06-30
+![2022-07-01](./storage/bing-wallpaper/2022/07/2022-07-01.png)
+2022-07-01
 
 
 ## 2022
 
+### 07
+| | | |
+|:---:|:---:|:---:|
+|![2022-07-01](./storage/bing-wallpaper/2022/07/2022-07-01.png) 2022-07-01| | |
 ### 06
 | | | |
 |:---:|:---:|:---:|
