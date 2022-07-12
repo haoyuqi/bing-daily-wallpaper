@@ -4,8 +4,8 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2022-07-11](./storage/bing-wallpaper/2022/07/2022-07-11.png)
-2022-07-11
+![2022-07-12](./storage/bing-wallpaper/2022/07/2022-07-12.png)
+2022-07-12
 
 
 ## 2022
@@ -13,10 +13,11 @@ Use GitHub action to update Bing wallpaper daily.
 ### 07
 | | | |
 |:---:|:---:|:---:|
-|![2022-07-11](./storage/bing-wallpaper/2022/07/2022-07-11.png) 2022-07-11|![2022-07-10](./storage/bing-wallpaper/2022/07/2022-07-10.png) 2022-07-10|![2022-07-09](./storage/bing-wallpaper/2022/07/2022-07-09.png) 2022-07-09|
-|![2022-07-08](./storage/bing-wallpaper/2022/07/2022-07-08.png) 2022-07-08|![2022-07-07](./storage/bing-wallpaper/2022/07/2022-07-07.png) 2022-07-07|![2022-07-06](./storage/bing-wallpaper/2022/07/2022-07-06.png) 2022-07-06|
-|![2022-07-05](./storage/bing-wallpaper/2022/07/2022-07-05.png) 2022-07-05|![2022-07-04](./storage/bing-wallpaper/2022/07/2022-07-04.png) 2022-07-04|![2022-07-03](./storage/bing-wallpaper/2022/07/2022-07-03.png) 2022-07-03|
-|![2022-07-02](./storage/bing-wallpaper/2022/07/2022-07-02.png) 2022-07-02|![2022-07-01](./storage/bing-wallpaper/2022/07/2022-07-01.png) 2022-07-01| |
+|![2022-07-12](./storage/bing-wallpaper/2022/07/2022-07-12.png) 2022-07-12|![2022-07-11](./storage/bing-wallpaper/2022/07/2022-07-11.png) 2022-07-11|![2022-07-10](./storage/bing-wallpaper/2022/07/2022-07-10.png) 2022-07-10|
+|![2022-07-09](./storage/bing-wallpaper/2022/07/2022-07-09.png) 2022-07-09|![2022-07-08](./storage/bing-wallpaper/2022/07/2022-07-08.png) 2022-07-08|![2022-07-07](./storage/bing-wallpaper/2022/07/2022-07-07.png) 2022-07-07|
+|![2022-07-06](./storage/bing-wallpaper/2022/07/2022-07-06.png) 2022-07-06|![2022-07-05](./storage/bing-wallpaper/2022/07/2022-07-05.png) 2022-07-05|![2022-07-04](./storage/bing-wallpaper/2022/07/2022-07-04.png) 2022-07-04|
+|![2022-07-03](./storage/bing-wallpaper/2022/07/2022-07-03.png) 2022-07-03|![2022-07-02](./storage/bing-wallpaper/2022/07/2022-07-02.png) 2022-07-02|![2022-07-01](./storage/bing-wallpaper/2022/07/2022-07-01.png) 2022-07-01|
+
 ### 06
 | | | |
 |:---:|:---:|:---:|
