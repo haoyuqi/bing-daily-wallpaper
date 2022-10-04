@@ -4,8 +4,8 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2022-10-03](./storage/bing-wallpaper/2022/10/2022-10-03.png)
-2022-10-03
+![2022-10-04](./storage/bing-wallpaper/2022/10/2022-10-04.png)
+2022-10-04
 
 
 ## 2022
@@ -13,8 +13,8 @@ Use GitHub action to update Bing wallpaper daily.
 ### 10
 | | | |
 |:---:|:---:|:---:|
-|![2022-10-03](./storage/bing-wallpaper/2022/10/2022-10-03.png) 2022-10-03|![2022-10-02](./storage/bing-wallpaper/2022/10/2022-10-02.png) 2022-10-02|![2022-10-01](./storage/bing-wallpaper/2022/10/2022-10-01.png) 2022-10-01|
-
+|![2022-10-04](./storage/bing-wallpaper/2022/10/2022-10-04.png) 2022-10-04|![2022-10-03](./storage/bing-wallpaper/2022/10/2022-10-03.png) 2022-10-03|![2022-10-02](./storage/bing-wallpaper/2022/10/2022-10-02.png) 2022-10-02|
+|![2022-10-01](./storage/bing-wallpaper/2022/10/2022-10-01.png) 2022-10-01| | |
 ### 09
 | | | |
 |:---:|:---:|:---:|
