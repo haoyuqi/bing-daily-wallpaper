@@ -4,8 +4,8 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2022-11-25](./storage/bing-wallpaper/2022/11/2022-11-25.png)
-2022-11-25
+![2022-11-26](./storage/bing-wallpaper/2022/11/2022-11-26.png)
+2022-11-26
 
 
 ## 2022
@@ -13,15 +13,15 @@ Use GitHub action to update Bing wallpaper daily.
 ### 11
 | | | |
 |:---:|:---:|:---:|
-|![2022-11-25](./storage/bing-wallpaper/2022/11/2022-11-25.png) 2022-11-25|![2022-11-24](./storage/bing-wallpaper/2022/11/2022-11-24.png) 2022-11-24|![2022-11-23](./storage/bing-wallpaper/2022/11/2022-11-23.png) 2022-11-23|
-|![2022-11-22](./storage/bing-wallpaper/2022/11/2022-11-22.png) 2022-11-22|![2022-11-21](./storage/bing-wallpaper/2022/11/2022-11-21.png) 2022-11-21|![2022-11-20](./storage/bing-wallpaper/2022/11/2022-11-20.png) 2022-11-20|
-|![2022-11-19](./storage/bing-wallpaper/2022/11/2022-11-19.png) 2022-11-19|![2022-11-18](./storage/bing-wallpaper/2022/11/2022-11-18.png) 2022-11-18|![2022-11-17](./storage/bing-wallpaper/2022/11/2022-11-17.png) 2022-11-17|
-|![2022-11-16](./storage/bing-wallpaper/2022/11/2022-11-16.png) 2022-11-16|![2022-11-15](./storage/bing-wallpaper/2022/11/2022-11-15.png) 2022-11-15|![2022-11-14](./storage/bing-wallpaper/2022/11/2022-11-14.png) 2022-11-14|
-|![2022-11-13](./storage/bing-wallpaper/2022/11/2022-11-13.png) 2022-11-13|![2022-11-12](./storage/bing-wallpaper/2022/11/2022-11-12.png) 2022-11-12|![2022-11-11](./storage/bing-wallpaper/2022/11/2022-11-11.png) 2022-11-11|
-|![2022-11-10](./storage/bing-wallpaper/2022/11/2022-11-10.png) 2022-11-10|![2022-11-09](./storage/bing-wallpaper/2022/11/2022-11-09.png) 2022-11-09|![2022-11-08](./storage/bing-wallpaper/2022/11/2022-11-08.png) 2022-11-08|
-|![2022-11-07](./storage/bing-wallpaper/2022/11/2022-11-07.png) 2022-11-07|![2022-11-06](./storage/bing-wallpaper/2022/11/2022-11-06.png) 2022-11-06|![2022-11-05](./storage/bing-wallpaper/2022/11/2022-11-05.png) 2022-11-05|
-|![2022-11-04](./storage/bing-wallpaper/2022/11/2022-11-04.png) 2022-11-04|![2022-11-03](./storage/bing-wallpaper/2022/11/2022-11-03.png) 2022-11-03|![2022-11-02](./storage/bing-wallpaper/2022/11/2022-11-02.png) 2022-11-02|
-|![2022-11-01](./storage/bing-wallpaper/2022/11/2022-11-01.png) 2022-11-01| | |
+|![2022-11-26](./storage/bing-wallpaper/2022/11/2022-11-26.png) 2022-11-26|![2022-11-25](./storage/bing-wallpaper/2022/11/2022-11-25.png) 2022-11-25|![2022-11-24](./storage/bing-wallpaper/2022/11/2022-11-24.png) 2022-11-24|
+|![2022-11-23](./storage/bing-wallpaper/2022/11/2022-11-23.png) 2022-11-23|![2022-11-22](./storage/bing-wallpaper/2022/11/2022-11-22.png) 2022-11-22|![2022-11-21](./storage/bing-wallpaper/2022/11/2022-11-21.png) 2022-11-21|
+|![2022-11-20](./storage/bing-wallpaper/2022/11/2022-11-20.png) 2022-11-20|![2022-11-19](./storage/bing-wallpaper/2022/11/2022-11-19.png) 2022-11-19|![2022-11-18](./storage/bing-wallpaper/2022/11/2022-11-18.png) 2022-11-18|
+|![2022-11-17](./storage/bing-wallpaper/2022/11/2022-11-17.png) 2022-11-17|![2022-11-16](./storage/bing-wallpaper/2022/11/2022-11-16.png) 2022-11-16|![2022-11-15](./storage/bing-wallpaper/2022/11/2022-11-15.png) 2022-11-15|
+|![2022-11-14](./storage/bing-wallpaper/2022/11/2022-11-14.png) 2022-11-14|![2022-11-13](./storage/bing-wallpaper/2022/11/2022-11-13.png) 2022-11-13|![2022-11-12](./storage/bing-wallpaper/2022/11/2022-11-12.png) 2022-11-12|
+|![2022-11-11](./storage/bing-wallpaper/2022/11/2022-11-11.png) 2022-11-11|![2022-11-10](./storage/bing-wallpaper/2022/11/2022-11-10.png) 2022-11-10|![2022-11-09](./storage/bing-wallpaper/2022/11/2022-11-09.png) 2022-11-09|
+|![2022-11-08](./storage/bing-wallpaper/2022/11/2022-11-08.png) 2022-11-08|![2022-11-07](./storage/bing-wallpaper/2022/11/2022-11-07.png) 2022-11-07|![2022-11-06](./storage/bing-wallpaper/2022/11/2022-11-06.png) 2022-11-06|
+|![2022-11-05](./storage/bing-wallpaper/2022/11/2022-11-05.png) 2022-11-05|![2022-11-04](./storage/bing-wallpaper/2022/11/2022-11-04.png) 2022-11-04|![2022-11-03](./storage/bing-wallpaper/2022/11/2022-11-03.png) 2022-11-03|
+|![2022-11-02](./storage/bing-wallpaper/2022/11/2022-11-02.png) 2022-11-02|![2022-11-01](./storage/bing-wallpaper/2022/11/2022-11-01.png) 2022-11-01| |
 ### 10
 | | | |
 |:---:|:---:|:---:|
