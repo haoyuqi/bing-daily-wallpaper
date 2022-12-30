@@ -4,8 +4,8 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2022-12-29](./storage/bing-wallpaper/2022/12/2022-12-29.png)
-2022-12-29
+![2022-12-30](./storage/bing-wallpaper/2022/12/2022-12-30.png)
+2022-12-30
 
 
 ## 2022
@@ -13,16 +13,17 @@ Use GitHub action to update Bing wallpaper daily.
 ### 12
 | | | |
 |:---:|:---:|:---:|
-|![2022-12-29](./storage/bing-wallpaper/2022/12/2022-12-29.png) 2022-12-29|![2022-12-28](./storage/bing-wallpaper/2022/12/2022-12-28.png) 2022-12-28|![2022-12-27](./storage/bing-wallpaper/2022/12/2022-12-27.png) 2022-12-27|
-|![2022-12-26](./storage/bing-wallpaper/2022/12/2022-12-26.png) 2022-12-26|![2022-12-25](./storage/bing-wallpaper/2022/12/2022-12-25.png) 2022-12-25|![2022-12-24](./storage/bing-wallpaper/2022/12/2022-12-24.png) 2022-12-24|
-|![2022-12-23](./storage/bing-wallpaper/2022/12/2022-12-23.png) 2022-12-23|![2022-12-22](./storage/bing-wallpaper/2022/12/2022-12-22.png) 2022-12-22|![2022-12-21](./storage/bing-wallpaper/2022/12/2022-12-21.png) 2022-12-21|
-|![2022-12-20](./storage/bing-wallpaper/2022/12/2022-12-20.png) 2022-12-20|![2022-12-19](./storage/bing-wallpaper/2022/12/2022-12-19.png) 2022-12-19|![2022-12-18](./storage/bing-wallpaper/2022/12/2022-12-18.png) 2022-12-18|
-|![2022-12-17](./storage/bing-wallpaper/2022/12/2022-12-17.png) 2022-12-17|![2022-12-16](./storage/bing-wallpaper/2022/12/2022-12-16.png) 2022-12-16|![2022-12-15](./storage/bing-wallpaper/2022/12/2022-12-15.png) 2022-12-15|
-|![2022-12-14](./storage/bing-wallpaper/2022/12/2022-12-14.png) 2022-12-14|![2022-12-13](./storage/bing-wallpaper/2022/12/2022-12-13.png) 2022-12-13|![2022-12-12](./storage/bing-wallpaper/2022/12/2022-12-12.png) 2022-12-12|
-|![2022-12-11](./storage/bing-wallpaper/2022/12/2022-12-11.png) 2022-12-11|![2022-12-10](./storage/bing-wallpaper/2022/12/2022-12-10.png) 2022-12-10|![2022-12-09](./storage/bing-wallpaper/2022/12/2022-12-09.png) 2022-12-09|
-|![2022-12-08](./storage/bing-wallpaper/2022/12/2022-12-08.png) 2022-12-08|![2022-12-07](./storage/bing-wallpaper/2022/12/2022-12-07.png) 2022-12-07|![2022-12-06](./storage/bing-wallpaper/2022/12/2022-12-06.png) 2022-12-06|
-|![2022-12-05](./storage/bing-wallpaper/2022/12/2022-12-05.png) 2022-12-05|![2022-12-04](./storage/bing-wallpaper/2022/12/2022-12-04.png) 2022-12-04|![2022-12-03](./storage/bing-wallpaper/2022/12/2022-12-03.png) 2022-12-03|
-|![2022-12-02](./storage/bing-wallpaper/2022/12/2022-12-02.png) 2022-12-02|![2022-12-01](./storage/bing-wallpaper/2022/12/2022-12-01.png) 2022-12-01| |
+|![2022-12-30](./storage/bing-wallpaper/2022/12/2022-12-30.png) 2022-12-30|![2022-12-29](./storage/bing-wallpaper/2022/12/2022-12-29.png) 2022-12-29|![2022-12-28](./storage/bing-wallpaper/2022/12/2022-12-28.png) 2022-12-28|
+|![2022-12-27](./storage/bing-wallpaper/2022/12/2022-12-27.png) 2022-12-27|![2022-12-26](./storage/bing-wallpaper/2022/12/2022-12-26.png) 2022-12-26|![2022-12-25](./storage/bing-wallpaper/2022/12/2022-12-25.png) 2022-12-25|
+|![2022-12-24](./storage/bing-wallpaper/2022/12/2022-12-24.png) 2022-12-24|![2022-12-23](./storage/bing-wallpaper/2022/12/2022-12-23.png) 2022-12-23|![2022-12-22](./storage/bing-wallpaper/2022/12/2022-12-22.png) 2022-12-22|
+|![2022-12-21](./storage/bing-wallpaper/2022/12/2022-12-21.png) 2022-12-21|![2022-12-20](./storage/bing-wallpaper/2022/12/2022-12-20.png) 2022-12-20|![2022-12-19](./storage/bing-wallpaper/2022/12/2022-12-19.png) 2022-12-19|
+|![2022-12-18](./storage/bing-wallpaper/2022/12/2022-12-18.png) 2022-12-18|![2022-12-17](./storage/bing-wallpaper/2022/12/2022-12-17.png) 2022-12-17|![2022-12-16](./storage/bing-wallpaper/2022/12/2022-12-16.png) 2022-12-16|
+|![2022-12-15](./storage/bing-wallpaper/2022/12/2022-12-15.png) 2022-12-15|![2022-12-14](./storage/bing-wallpaper/2022/12/2022-12-14.png) 2022-12-14|![2022-12-13](./storage/bing-wallpaper/2022/12/2022-12-13.png) 2022-12-13|
+|![2022-12-12](./storage/bing-wallpaper/2022/12/2022-12-12.png) 2022-12-12|![2022-12-11](./storage/bing-wallpaper/2022/12/2022-12-11.png) 2022-12-11|![2022-12-10](./storage/bing-wallpaper/2022/12/2022-12-10.png) 2022-12-10|
+|![2022-12-09](./storage/bing-wallpaper/2022/12/2022-12-09.png) 2022-12-09|![2022-12-08](./storage/bing-wallpaper/2022/12/2022-12-08.png) 2022-12-08|![2022-12-07](./storage/bing-wallpaper/2022/12/2022-12-07.png) 2022-12-07|
+|![2022-12-06](./storage/bing-wallpaper/2022/12/2022-12-06.png) 2022-12-06|![2022-12-05](./storage/bing-wallpaper/2022/12/2022-12-05.png) 2022-12-05|![2022-12-04](./storage/bing-wallpaper/2022/12/2022-12-04.png) 2022-12-04|
+|![2022-12-03](./storage/bing-wallpaper/2022/12/2022-12-03.png) 2022-12-03|![2022-12-02](./storage/bing-wallpaper/2022/12/2022-12-02.png) 2022-12-02|![2022-12-01](./storage/bing-wallpaper/2022/12/2022-12-01.png) 2022-12-01|
+
 ### 11
 | | | |
 |:---:|:---:|:---:|
