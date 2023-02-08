@@ -4,8 +4,8 @@ Use GitHub action to update Bing wallpaper daily.
 
 ## Today wallpaper
 
-![2023-02-07](./storage/bing-wallpaper/2023/02/2023-02-07.png)
-2023-02-07
+![2023-02-08](./storage/bing-wallpaper/2023/02/2023-02-08.png)
+2023-02-08
 
 
 ## 2023
@@ -13,9 +13,9 @@ Use GitHub action to update Bing wallpaper daily.
 ### 02
 | | | |
 |:---:|:---:|:---:|
-|![2023-02-07](./storage/bing-wallpaper/2023/02/2023-02-07.png) 2023-02-07|![2023-02-06](./storage/bing-wallpaper/2023/02/2023-02-06.png) 2023-02-06|![2023-02-05](./storage/bing-wallpaper/2023/02/2023-02-05.png) 2023-02-05|
-|![2023-02-04](./storage/bing-wallpaper/2023/02/2023-02-04.png) 2023-02-04|![2023-02-03](./storage/bing-wallpaper/2023/02/2023-02-03.png) 2023-02-03|![2023-02-02](./storage/bing-wallpaper/2023/02/2023-02-02.png) 2023-02-02|
-|![2023-02-01](./storage/bing-wallpaper/2023/02/2023-02-01.png) 2023-02-01| | |
+|![2023-02-08](./storage/bing-wallpaper/2023/02/2023-02-08.png) 2023-02-08|![2023-02-07](./storage/bing-wallpaper/2023/02/2023-02-07.png) 2023-02-07|![2023-02-06](./storage/bing-wallpaper/2023/02/2023-02-06.png) 2023-02-06|
+|![2023-02-05](./storage/bing-wallpaper/2023/02/2023-02-05.png) 2023-02-05|![2023-02-04](./storage/bing-wallpaper/2023/02/2023-02-04.png) 2023-02-04|![2023-02-03](./storage/bing-wallpaper/2023/02/2023-02-03.png) 2023-02-03|
+|![2023-02-02](./storage/bing-wallpaper/2023/02/2023-02-02.png) 2023-02-02|![2023-02-01](./storage/bing-wallpaper/2023/02/2023-02-01.png) 2023-02-01| |
 ### 01
 | | | |
 |:---:|:---:|:---:|
